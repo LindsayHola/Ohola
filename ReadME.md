@@ -1,4 +1,4 @@
-#a deep dive into model training 
+# a deep dive into model training 
 
 - forward pass
 - backward propagation of derivative
